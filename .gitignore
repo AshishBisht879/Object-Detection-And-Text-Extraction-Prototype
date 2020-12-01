@@ -1,0 +1,5 @@
+#nodeJS modules
+node_modules
+
+#IBM visual Recognition
+credentials.json
